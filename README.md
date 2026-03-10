@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mahammad Mashood 👋
 
-<!--
-**mashood17/mashood17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer passionate about building practical web applications and developer tools.
 
-Here are some ideas to get you started:
+I work with modern web technologies and enjoy building systems that combine frontend, backend, and AI-powered features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Frontend: React, HTML, CSS, Tailwind  
+Backend: Flask, Node.js, REST APIs  
+Databases: MySQL, MongoDB  
+Tools: Git, GitHub, Docker  
+Deployment: Vercel, Render
+
+## Current Focus
+
+- Building full-stack web applications
+- API integration and backend systems
+- Developer tools and productivity platforms
+
+
+## Connect With Me
+
+LinkedIn: https://linkedin.com/in/mahammad-mashood  
+Portfolio: https://mashood-portfolio.vercel.app/
