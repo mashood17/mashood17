@@ -100,7 +100,7 @@ export default mashood;
 
 | Project | Stack | Status | Description |
 |---|---|---|---|
-| 🏎️ [racezone](https://github.com/mashood17/racezone) | JS | `✅ Active` | Racing zone app — 9 commits this month |
+| 🏎️ [racezone](https://github.com/mashood17/racezone) | JS | `✅ Active` | Racing zone app |
 | 💼 [portfolio](https://mashood-portfolio.vercel.app/) | JS | `🚀 Live` | You're looking at the result |
 | 🏏 [crictap](https://github.com/mashood17/crictap) | JS | `✅ Active` | Cricket-focused dev tool |
 | 🤖 [hr-coaching-ai-agent](https://github.com/mashood17/hr-coaching-ai-agent) | HTML | `🧪 Shipped` | AI agent for HR coaching workflows |
@@ -133,7 +133,7 @@ while True:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahammad-mashood)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mashood-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lyart-six-37.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mashood17)
 
 </div>
