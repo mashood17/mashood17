@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:533483&height=200&section=header&text=Mashood&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20of%20Things%20That%20Actually%20Work&descAlignY=60&descSize=16&descColor=8b949e" width="100%" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=const+mashood+%3D+new+Developer();+%F0%9F%9A%80;mashood.build(%22web+apps+that+don't+break%22);+%E2%9C%85;// currently+drinking+coffee+%26+writing+bugs+%F0%9F%90%9B)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=const+mashood+%3D+new+Developer();+%F0%9F%9A%80;mashood.build(%22web+apps+that+don't+break%22);+%E2%9C%85;//+currently+drinking+coffee+%26+writing+bugs+%F0%9F%90%9B)
 
 </div>
 
