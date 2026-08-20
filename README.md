@@ -236,9 +236,9 @@ A platform bringing multiple AI capabilities into a focused student-oriented exp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mashood17&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="180" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mashood17&theme=github_dark" height="180" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashood17&layout=compact&hide_border=true&langs_count=7&theme=github_dark" height="180" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mashood17&theme=github_dark&exclude=Jupyter%20Notebook" height="180" alt="Most used languages" />
 
 <br/>
 
