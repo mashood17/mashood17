@@ -1,31 +1,36 @@
-name: Update contribution animation
+name: Update contribution snake
 
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: "17 2 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: mashood17
           outputs: |
-            assets/github-contribution-snake.svg?palette=github-dark
-            assets/github-contribution-snake-dark.svg?palette=github-dark&color_snake=#3fb950
+            dist/github-contribution-snake.svg?palette=github-dark
+            dist/github-contribution-snake-dark.svg?palette=github-dark&color_snake=#3fb950
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated assets
+      - name: Publish generated animation
         uses: EndBug/add-and-commit@v9
         with:
-          add: "assets/*.svg"
-          message: "chore: update contribution animation"
+          add: "dist/*.svg"
+          message: "chore: update contribution snake"
