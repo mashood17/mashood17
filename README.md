@@ -49,7 +49,7 @@ I like working where **product thinking meets engineering** — turning an idea 
 </td>
 <td width="34%" valign="top" align="center">
 
-<img src="./assets/mashood.png" width="220" alt="Mahammad Mashood" />
+<img src="./assets/mashood1.png" width="220" alt="Mahammad Mashood" />
 
 <br/><br/>
 
