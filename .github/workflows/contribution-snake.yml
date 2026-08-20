@@ -9,6 +9,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "assets/*.svg"
 
 permissions:
   contents: write
@@ -19,18 +21,21 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mashood17
           outputs: |
-            dist/github-contribution-snake.svg?palette=github-dark
-            dist/github-contribution-snake-dark.svg?palette=github-dark&color_snake=#3fb950
+            assets/github-contribution-snake.svg?palette=github-dark
+            assets/github-contribution-snake-dark.svg?palette=github-dark&color_snake=#3fb950
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish generated animation
+      - name: Commit generated animation
         uses: EndBug/add-and-commit@v9
         with:
-          add: "dist/*.svg"
-          message: "chore: update contribution snake"
+          add: "assets/*.svg"
+          message: "chore: update contribution animation"
