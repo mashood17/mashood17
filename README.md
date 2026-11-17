@@ -1,10 +1,11 @@
+
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Mahammad Mashood — Software Engineer" />
+<img src="./assets/hero.svg" width="100%" alt="Mahammad Mashood — AI & Software Engineer" />
 
 <br/>
 
-<a href="https://mashood-liart.vercel.app/">
+<a href="https://mashood-dev-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
@@ -16,13 +17,13 @@
   <img src="https://img.shields.io/badge/GITHUB-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/mashooood_">
+<a href="https://www.instagram.com/mashooood_/">
   <img src="https://img.shields.io/badge/INSTAGRAM-161B22?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=760&lines=Full-stack+applications+%E2%80%A2+Real-time+systems+%E2%80%A2+AI-powered+products;React+%E2%80%A2+Python+%E2%80%A2+Flask+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;From+idea+%E2%86%92+architecture+%E2%86%92+deployment" alt="What I build" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=760&lines=AI-powered+applications+%E2%80%A2+Full-stack+products;Python+%E2%80%A2+React+%E2%80%A2+FastAPI+%E2%80%A2+LLM+Integration;Interactive+3D+experiences+%E2%80%A2+Real-time+systems;From+idea+%E2%86%92+engineering+%E2%86%92+deployment" alt="What I build" />
 
 </div>
 
@@ -34,17 +35,19 @@
 
 ## `01` — WHO I AM
 
-I'm **Mahammad Mashood**, a Software Engineer from Mangaluru, India.
+I'm **Mahammad Mashood**, an **AI & Software Engineer** based in Bengaluru, India.
 
-I build **full-stack web applications, real-time systems, backend APIs, and AI-powered products** with a focus on clean UX, reliable architecture, measurable performance, and shipping things that actually work.
+I build **AI-powered applications, full-stack products, backend systems, and interactive digital experiences** with a focus on practical engineering, clean interfaces, reliable architecture, and meaningful functionality.
 
-I like working where **product thinking meets engineering** — turning an idea into an interface, an API, a database, a tested system, and finally a deployed product.
+My work combines **AI and LLM integration, frontend engineering, backend development, database design, and modern web technologies** to turn ideas into working products.
+
+I enjoy working across the complete development lifecycle — from understanding a problem and designing a solution to implementation, testing, optimization, and deployment.
 
 <br/>
 
 **Currently focused on**
 
-`Full-Stack` · `Backend Engineering` · `AI / LLMs` · `Real-Time Systems` · `System Design`
+`AI & LLM Engineering` · `Full-Stack Development` · `Backend Engineering` · `Interactive 3D` · `System Design`
 
 </td>
 <td width="34%" valign="top" align="center">
@@ -53,11 +56,17 @@ I like working where **product thinking meets engineering** — turning an idea 
 
 <br/><br/>
 
-🟢 **AVAILABLE FOR OPPORTUNITIES**
+🟢 **AI & SOFTWARE ENGINEER**
 
 <br/>
 
-`Mangaluru, India · IST`
+`Bengaluru, India · IST`
+
+<br/>
+
+<a href="https://mashood-dev-portfolio.vercel.app/">
+  **Explore My Portfolio ↗**
+</a>
 
 </td>
 </tr>
@@ -71,34 +80,38 @@ I like working where **product thinking meets engineering** — turning an idea 
 <tr>
 <td width="25%" align="center">
 
-### ⚡
-**PRODUCTS**
-
-Full-stack applications with polished interfaces and real backend logic.
-
-</td>
-<td width="25%" align="center">
-
 ### 🤖
-**AI**
 
-Practical LLM integrations and AI-powered workflows.
+**AI & LLM**
 
-</td>
-<td width="25%" align="center">
-
-### 🔄
-**REAL-TIME**
-
-WebSockets, live communication and responsive systems.
+AI-powered applications, LLM integrations, and intelligent workflows.
 
 </td>
 <td width="25%" align="center">
 
-### 🧪
+### ⚡
+
+**FULL-STACK**
+
+Modern web applications with frontend, backend, APIs, and databases.
+
+</td>
+<td width="25%" align="center">
+
+### 🌐
+
+**INTERACTIVE 3D**
+
+Immersive web experiences, 3D visualizations, and motion-driven interfaces.
+
+</td>
+<td width="25%" align="center">
+
+### ⚙️
+
 **ENGINEERING**
 
-APIs, authentication, testing, performance and deployment.
+Authentication, real-time systems, testing, performance, and deployment.
 
 </td>
 </tr>
@@ -109,48 +122,72 @@ APIs, authentication, testing, performance and deployment.
 ## `03` — SELECTED WORK
 
 ### ELATŌ
-**Premium hospitality · digital experience · admin platform**
+**Premium hospitality · digital experience · administration**
 
-A modern digital platform bringing together **café, stay, events and digital-menu experiences**, with an administrative layer for managing content and menu data.
+A digital platform bringing together café, stay, events, and hospitality experiences. The project also includes administrative capabilities for managing website content and digital menu information.
 
 `React` `Python` `Supabase` `Responsive UI` `Admin Dashboard`
 
-**[↗ View portfolio](https://mashood-liart.vercel.app/)**
+**[↗ Live Website](https://www.elatogroups.in/)**
+
+**[↗ Repository](https://github.com/mashood17/product-1)**
 
 ---
 
 ### CampusLoop
-**Real-time campus platform**
+**Real-time campus platform · full-stack engineering**
 
-A full-stack platform built around real-time communication, authentication and backend workflows.
+A full-stack campus platform designed to connect students through real-time communication and modern digital workflows.
 
-`React` `Flask` `PostgreSQL` `WebSockets` `JWT`
+`React` `Python` `Flask` `PostgreSQL` `WebSockets` `JWT`
 
-**Engineering proof**
+**Engineering validation**
+
 - `72ms` average response time in reported load testing
 - `50` concurrent users tested
-- `0%` reported failure rate
+- `0%` reported failures in that test
 - `21` automated tests · `100%` pass rate
+
+**[↗ Live Demo](https://campus-loop-pi.vercel.app/)**
+
+**[↗ Repository](https://github.com/mashood17/campus_loop)**
 
 ---
 
 ### AI Timesheet Processor
-**Document processing · automation · backend engineering**
+**Document processing · AI-assisted workflows · automation**
 
-A web application designed to extract data from handwritten monthly timesheets and populate a master Excel workflow using an employee identifier.
+An application designed to extract information from handwritten monthly timesheets and populate a master Excel workflow using employee identifiers.
 
-`Python` `FastAPI` `AI/OCR workflow` `Excel automation`
+`Python` `FastAPI` `AI/OCR Workflow` `Excel Automation`
 
 **[↗ Repository](https://github.com/mashood17/ai-timesheet-processor)**
 
 ---
 
 ### Student AI Hub
-**AI tools for students**
+**AI tools · student productivity · LLM integration**
 
-A platform bringing multiple AI capabilities into a focused student-oriented experience.
+An AI-powered student platform bringing multiple AI capabilities into a focused experience for academic assistance and useful student workflows.
 
-`React` `Python` `LLM APIs` `AI integration`
+`React` `Python` `LLM APIs` `AI Integration`
+
+**[↗ Live Demo](https://frontend-k5qm.onrender.com/)**
+
+**[↗ Repository](https://github.com/mashood17/student-ai-hub)**
+
+---
+
+### GitInsights
+**Developer tools · GitHub data · repository insights**
+
+A developer-focused project designed to present GitHub activity and repository information as useful development insights.
+
+`JavaScript` `GitHub API` `Data Visualization`
+
+**[↗ Live Demo](https://gitinsight-lake.vercel.app/)**
+
+**[↗ Repository](https://github.com/mashood17/gitinsight)**
 
 ---
 
@@ -160,36 +197,95 @@ A platform bringing multiple AI capabilities into a focused student-oriented exp
 <tr>
 <td valign="top" width="33%">
 
-**LANGUAGES**
+**AI & LLM ENGINEERING**
 
-`Python`  
-`JavaScript (ES6+)`  
-`SQL`  
-`HTML5`  
-`CSS3`
+`OpenRouter`
+
+`Cerebras`
+
+`LLaMA`
+
+`Ollama`
+
+`Claude (Anthropic)`
+
+`OpenAI Codex`
+
+`Prompt Engineering`
+
+`LLM API Integration`
+
+`AI Application Development`
 
 </td>
 <td valign="top" width="33%">
 
-**FRONTEND**
+**PROGRAMMING LANGUAGES**
 
-`React`  
-`Tailwind CSS`  
-`Vite`  
-`Responsive Design`  
+`Python`
+
+`JavaScript ES6+`
+
+`SQL`
+
+`TypeScript`
+
+<br/>
+
+**FRONTEND ENGINEERING**
+
+`React.js`
+
+`Tailwind CSS`
+
 `Framer Motion`
 
+`GSAP`
+
+`Three.js`
+
+`WebGL`
+
+`HTML5`
+
+`CSS3`
+
+`Responsive Design`
+
 </td>
 <td valign="top" width="33%">
 
-**BACKEND**
+**BACKEND ENGINEERING**
 
-`Flask`  
-`FastAPI`  
-`Node.js`  
-`Express.js`  
-`REST APIs`  
+`Node.js`
+
+`Express.js`
+
+`Flask`
+
+`FastAPI`
+
+`REST APIs`
+
 `WebSockets`
+
+`Flask-SocketIO`
+
+`API Integration`
+
+<br/>
+
+**DATABASES**
+
+`PostgreSQL`
+
+`MongoDB`
+
+`MySQL`
+
+`Supabase`
+
+`Firebase`
 
 </td>
 </tr>
@@ -197,34 +293,67 @@ A platform bringing multiple AI capabilities into a focused student-oriented exp
 <tr>
 <td valign="top">
 
-**DATA**
+**SECURITY & AUTHENTICATION**
 
-`PostgreSQL`  
-`MongoDB`  
-`MySQL`  
-`Supabase`
+`JWT Authentication`
 
-</td>
-<td valign="top">
+`Access / Refresh Tokens`
 
-**SECURITY**
+`Token Rotation`
 
-`JWT`  
-`Access / Refresh Tokens`  
-`Token Rotation`  
-`Authentication`
+`Axios Interceptors`
+
+`OTP Authentication`
+
+`Row-Level Security`
 
 </td>
 <td valign="top">
 
-**ENGINEERING**
+**TESTING & DEVOPS**
 
-`Pytest`  
-`Locust`  
-`Docker`  
-`Git`  
-`Postman`  
-`Vercel` · `Render`
+`Pytest`
+
+`Locust`
+
+`Docker`
+
+`Git`
+
+`GitHub`
+
+`GitHub Actions`
+
+`Postman`
+
+`Linux`
+
+`Vercel`
+
+`Render`
+
+`Railway`
+
+</td>
+<td valign="top">
+
+**ANDROID DEVELOPMENT**
+
+`Kotlin`
+
+`Java`
+
+`Android Studio`
+
+`XML Layouts`
+
+`RecyclerView`
+
+`ViewBinding`
+
+`Firebase Authentication`
+
+`Cloud Firestore`
 
 </td>
 </tr>
@@ -264,33 +393,54 @@ A platform bringing multiple AI capabilities into a focused student-oriented exp
 
 <div align="center">
 
-**72ms**  
-<sub>avg. response</sub>
+<table>
+<tr>
+<td align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+### 72ms
 
-**50**  
-<sub>users load-tested</sub>
+<sub>Average response time</sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+<td align="center">
 
-**0%**  
-<sub>reported failures</sub>
+### 50
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Concurrent users tested</sub>
 
-**21**  
-<sub>automated tests</sub>
+</td>
+<td align="center">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+### 0%
 
-**100%**  
-<sub>test pass rate</sub>
+<sub>Reported test failures</sub>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+<tr>
+<td align="center">
 
-**MULTI-LLM**  
-<sub>AI integrations</sub>
+### 21
+
+<sub>Automated tests</sub>
+
+</td>
+<td align="center">
+
+### 100%
+
+<sub>Test pass rate</sub>
+
+</td>
+<td align="center">
+
+### 4+
+
+<sub>Featured projects</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -298,23 +448,34 @@ A platform bringing multiple AI capabilities into a focused student-oriented exp
 
 ## `07` — RESEARCH
 
-### *Job Portal Website*
+### Job Portal Website
 
-**Journal of Emerging Technologies and Innovative Research (JETIR)**  
-Volume 12 · Issue 7 · July 2025
+**Journal of Emerging Technologies and Innovative Research (JETIR)**
 
-Research covering the design and implementation of a job portal web application.
+`Volume 12` · `Issue 7` · `July 2025`
+
+Research covering the design and implementation of a web-based job portal application.
+
+- ISSN: `2349-5162`
+- Published: `July 2025`
+- Journal: `JETIR`
+
+**[↗ Read Published Paper](https://www.jetir.org/view?paper=JETIRGX06045)**
 
 ---
 
 ## `08` — NOW
 
 ```text
-01  BUILDING   → modern full-stack products
-02  EXPLORING  → AI / LLM application patterns
-03  ENGINEERING→ APIs, real-time systems & backend architecture
-04  IMPROVING  → testing, performance & system design
-05  LOOKING    → Software Engineering opportunities
+01  BUILDING    → AI-powered applications and full-stack products
+
+02  EXPLORING   → LLM integration and practical AI engineering
+
+03  ENGINEERING → Backend systems, APIs and real-time applications
+
+04  CREATING    → Interactive 3D experiences and modern web interfaces
+
+05  IMPROVING   → System design, testing and performance optimization
 ```
 
 ---
@@ -323,18 +484,24 @@ Research covering the design and implementation of a job portal web application.
 
 ### LET'S BUILD SOMETHING USEFUL.
 
-<a href="https://mashood-liart.vercel.app/">Portfolio</a>
+**AI Applications · Full-Stack Products · Intelligent Digital Experiences**
+
+<br/>
+
+<a href="https://mashood-dev-portfolio.vercel.app/">Portfolio</a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/mahammad-mashood">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/mashood17">GitHub</a>
 &nbsp; · &nbsp;
 <a href="mailto:mashoodrenja17@gmail.com">Email</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mashood17&style=flat-square&color=3fb950&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mashood17&style=flat-square&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
-<sub>Build quietly. Ship consistently. Keep improving.</sub>
+<sub>Build with intent. Ship with care. Keep improving.</sub>
 
 </div>
