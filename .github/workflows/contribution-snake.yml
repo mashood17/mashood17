@@ -1,16 +1,12 @@
+
 name: Update contribution snake
 
 on:
   schedule:
-    - cron: "17 2 * * *"
+    # Every Saturday at 12:00 AM IST (Friday 6:30 PM UTC)
+    - cron: "30 18 * * 5"
 
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - "assets/*.svg"
 
 permissions:
   contents: write
